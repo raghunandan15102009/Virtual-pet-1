@@ -1,8 +1,8 @@
 var dog, totalfood, database, food=20;
 
 function preload() {
-  dogImage = loadImage("images/dogImg.png");
-  dogImage1 = loadImage("images/dogImg1.png")
+  dogImage = loadImage("dogImg.png");
+  dogImage1 = loadImage("dogImg1.png")
 }
 
 function setup() {
